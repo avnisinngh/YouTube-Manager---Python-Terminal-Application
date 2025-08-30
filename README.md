@@ -91,8 +91,9 @@ The main function loads existing data and presents a continuous menu until the u
     
 ## Screenshots
 
-![Logo](<img width="830" height="385" alt="image" src="https://github.com/user-attachments/assets/9dfe89bd-8c08-4631-9679-7d33b82dfa40" />)
-![Logo](<img width="619" height="250" alt="image" src="https://github.com/user-attachments/assets/d4996532-6111-4a0e-974a-93486d58603c" />)
+![Menu Screenshot](WhatsApp%20Image%202025-08-30%20at%2013.26.48_6832b8a1.jpg)
+![Video List Screenshot](WhatsApp%20Image%202025-08-30%20at%2013.26.16_09b8a23f.jpg)
+
 
 
 
